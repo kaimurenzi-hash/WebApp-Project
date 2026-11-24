@@ -1,0 +1,19 @@
+
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "DevOps practical web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaimurenzi-hash/WebApp-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
